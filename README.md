@@ -1,0 +1,2 @@
+# NotOrtalamas-n-HesaplayanProgram
+PratikNotHesaplama
